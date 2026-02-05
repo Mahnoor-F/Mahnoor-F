@@ -6,29 +6,37 @@ I am a self-driven developer with **10 months of internship experience** at Bris
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Core:** HTML5, CSS3, JavaScript (ES6+), React.js.
-- **State Management:** Redux Toolkit, Redux Persist, React Query.
-- **Styling:** Tailwind CSS, Bootstrap.
-- **Utilities:** Clerk Auth, Lucide Icons, Axios.
-- **Tools:** Git, GitHub, VS Code.
-
----
-
-### 🌟 Why Me?
-- **Self-Taught:** High ability to research, explore, and implement new libraries independently.
-- **Experience:** 10 months of practical exposure in a professional environment.
-- **Goal:** Seeking a role (Expected: 40k+) where I can work in a team, follow professional workflows, and grow as a developer.
-
----
-
-### 📊 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-F&show_icons=true&theme=radical&hide_border=true" alt="Mahnoor's Stats" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+- **Advanced Logic:** Redux Persist, React Query, Axios.
+- **Tools & Auth:** Clerk Auth, Lucide Icons, Git, GitHub.
+- **Soft Skills:** Self-research, Independent Problem Solving, Quick Learner.
+
+---
+
+### 💼 Experience & Education
+- 🏢 **Internship:** 10 Months at [Brisk Tech Sol](https://brisktechsol.com/) (Frontend Role).
+- 🎓 **Education:** Intermediate (ICS).
+- 🎯 **Goal:** Seeking a role where I can work in a team, follow professional workflows, and grow as a developer.
+
+---
+
+### 📊 GitHub Stats & Languages
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-F&show_icons=true&theme=radical&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-F&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-- 📧 **Email:** [mahnoorfatimashahzaib@gmail.com](mailto:mahnoorfatimashahzaib@gmail.com)
-- 🔗 **LinkedIn:** [Mahnoor Shahzaib](https://www.linkedin.com/in/mahnoor-shahzaib/)
-- 📞 **WhatsApp/Call:** +92 300 7424279
+### 📫 Let's Connect!
+- 📧 **Email:** mahnoorfatimashahzaib@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/mahnoor-shahzaib/](https://www.linkedin.com/in/mahnoor-shahzaib/)
+- 📞 **Contact:** +92 3298025408
